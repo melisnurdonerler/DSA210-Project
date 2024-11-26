@@ -48,7 +48,7 @@ The following tools will be used for this project:
 ## **Data Source**
 The data was directly exported from TikTok using their official **data export tool**.  
 The dataset includes:
-1. **Login History:** Information on login times and devices.
+1. **Login History:** Information on login times and devices
 2. **Activity Log:** Records of video-watching sessions, including timestamps and durations.
 
 ### **Data Collection**
