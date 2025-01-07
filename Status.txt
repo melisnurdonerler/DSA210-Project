@@ -1,0 +1,1449 @@
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.9.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.4.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.4.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.0.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.7.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.4.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.7.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.4.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.5.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.4.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.9.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.5.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.5.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.9.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.8.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.4.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.8.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.9.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.5.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.5.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.8.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.8.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.4.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.9.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.4.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.4.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.4.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.7.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.7.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.4.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.9.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.7.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.4.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.9.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.0.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.5.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.7.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.4.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.5.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.8.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.7.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.0.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.9.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.7.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.7.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.5.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.0.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.9.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.7.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.7.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.0.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.9.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.5.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.5.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.5.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.6.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.7.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.8.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.0.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.8.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.5.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.7.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.4.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.8.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.9.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 36.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.5.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 35.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.7.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.5.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1170*2532
+App Version: 37.8.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 1CFED107-3C4D-4601-863A-984C4D79FB73
+Web ID: 
+
+Screen Resolution: 1640*2360
+App Version: 37.1.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 7683D797-F9E4-4821-8CA2-15DCAC14B9F6
+Web ID: 
+
+Screen Resolution: 2360*1640
+App Version: 36.2.0
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 7683D797-F9E4-4821-8CA2-15DCAC14B9F6
+Web ID: 
+
+Screen Resolution: 1280x720
+App Version: 
+IDFA: 
+GAID: 
+Android ID: 
+IDFV: 
+Web ID: 
+
+
