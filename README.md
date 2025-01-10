@@ -19,32 +19,7 @@
 
 
 
----
-## **Description**
-This project is part of the **Sabancı University DSA210 Introduction to Data Science** course for the Fall 2024-2025 term.  
-It focuses on analyzing my TikTok usage data to uncover patterns in my activity, explore consumer behavior, and evaluate the impact of social media on time management.
----
-## **Links**
-- Code related to my project can be found in [main.ipynb](https://github.com/melisnurdonerler/DSA210-Project/tree/main).
-- The presentation website is on https://tiktok-usage-insights-clzb9j2.gamma.site/.
-- The presentation file can be found https://github.com/melisnurdonerler/DSA210-Project/blob/main/Melisnur-Donerler-31145.pptx
-- My findings can be found **Table of Contents**
-- [**Description**](#description)
-- [**Links**](#links)
-- [**Motivation**](#motivation)
-- [**Hypothesis**](#hypothesis)
-- [**Tools**](#tools)
-- [**Data Source**](#data-source)
-  - [**Data Collection**](#data-collection)
-- [**Data Processing**](#data-processing)
-- [**Data Visualizations**](#data-visualizations)
-- [**Data Analysis**](#data-analysis)
-  - [**Hourly Usage Patterns**](#hourly-usage-patterns)
-  - [**Daily and Weekly Usage Trends**](#daily-and-weekly-usage-trends)
-- [**Limitations**](#limitations)
-  - [**Data Limitations**](#data-limitations)
-  - [**Personal Limitations**](#personal-limitations)
-- [**Future Work**](#future-work)
+
 
 
 
