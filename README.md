@@ -27,7 +27,7 @@ It focuses on analyzing my TikTok usage data to uncover patterns in my activity,
 ## **Links**
 - Code related to my project can be found in [main.ipynb](https://github.com/melisnurdonerler/DSA210-Project/tree/main).
 - The presentation website is on https://tiktok-usage-insights-clzb9j2.gamma.site/.
-- The presentation file can be found [here]https://github.com/melisnurdonerler/DSA210-Project/blob/main/Melisnur-Donerler-31145.pptx
+- The presentation file can be found https://github.com/melisnurdonerler/DSA210-Project/blob/main/Melisnur-Donerler-31145.pptx
 
 ---
 
